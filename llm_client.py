@@ -1,6 +1,6 @@
 from ollama import ChatResponse, GenerateResponse, chat, generate
 
-model_name = "llama3.2:1b"
+model_name = "llama3.2"
 
 PROMPT = "What is the capital of Italy?."
 
