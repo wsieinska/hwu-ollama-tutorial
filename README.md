@@ -45,6 +45,12 @@ This script demonstrates the basic usage of the Ollama API for text-only LLMs.
 
 ### Interacting with a VLM: `vlm_client.py`
 
+You need to pull a vision model you want to use. For this tutorial, we will use the `llama3.2-vision` model, therefore you need to run the following command:
+
+```bash
+ollama pull llama3.2-vision
+```
+
 To run the second script, use the following command:
 
 ```bash
