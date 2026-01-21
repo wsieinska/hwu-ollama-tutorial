@@ -7,6 +7,8 @@ official [Python API](https://github.com/ollama/ollama-python).
 
 To get started, first make sure you have Ollama installed from [their website](https://ollama.com/).
 
+On Windows 11, Smart App Control may block the Ollama installer. If it happens, temporarily disable Smart App Control during installation, then re-enable it.
+
 Then, you need to install the required dependencies for your Python environment. 
 Activate one using your favourite Python environment manager (e.g., [Anaconda](https://www.anaconda.com/)). 
 
